@@ -12,7 +12,7 @@ class AboutController extends Controller {
     }
 
     public function test() {
-        $test[] = ['name'=>'user1', 'email'=>'user1@gmail.com'];
+        $test[] = ['name'=>'user123', 'email'=>'user1@gmail.com'];
         $test[] = ['name'=>'user2', 'email'=>'user2@gmail.com'];
         $test[] = ['name'=>'user3', 'email'=>'user3@gmail.com'];
         $test[] = ['name'=>'user4', 'email'=>'user4@gmail.com'];
